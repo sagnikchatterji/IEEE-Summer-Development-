@@ -12,7 +12,7 @@ the topics are as follows
   <li>Requirements and Dependencies</li>
   </ul>
 
-Go through documentations of Node and/or flask to know more about the framework's functionalities. Try making a basic 'Hello World' Application.
+Go through documentations of Node and/or flask to know more about the framework's functionalities. Try making a basic 'Hello World' Application. Push your .js or .py files to a folder Task1 on your respective branch. 
 
 Flask people, also read about virtualenv; and node people read about express.js. We'll be using it for upcoming tasks.
 
